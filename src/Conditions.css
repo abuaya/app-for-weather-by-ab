@@ -1,0 +1,10 @@
+ul {
+  font-size: 25px;
+  font-weight: 400;
+  position: relative;
+  left: 400px;
+  top: 120px;
+  list-style: none;
+  text-transform: capitalize;
+  text-shadow: 1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000, 1px 1px 0 #000;
+}
